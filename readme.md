@@ -9,5 +9,5 @@ git clone git@github.com:jeanmalod/garmin-exporter.git
 ```
 
 ```
-python3 kmlexporter -i <path-to-the-kml-feed> -o <name-of-output-file>
+python3 kmlexporter.py -i <path-to-the-kml-feed> -o <name-of-output-file>
 ```
