@@ -2,7 +2,7 @@ Export waypoints and tracking data created by a Garmin inreach device into csv o
 
 ## Getting started
 
-Simply run the following command in a terminal:
+Simply run the following commands in a terminal:
 
 ```
 git clone git@github.com:jeanmalod/garmin-exporter.git
